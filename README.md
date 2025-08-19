@@ -5,4 +5,6 @@ Bu repo, Java’da sık kullanılan tasarım desenlerini (Design Patterns) açı
 ## İçindekiler
 
 - [Builder Pattern](src/main/java/builder)
-- [Singleton Pattern](src/main/java/singleton)  
+- [Singleton Pattern](src/main/java/singleton) 
+- [Strategy Pattern](src/main/java/strategy) 
+
