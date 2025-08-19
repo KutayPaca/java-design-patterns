@@ -1,4 +1,4 @@
-package strategy;
+package factory;
 
 public class DirectFlyStrategy implements FlyStrategy {
     @Override
